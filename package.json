@@ -1,0 +1,17 @@
+{
+  "name": "weibo-bot",
+  "version": "1.0.0",
+  "description": "A Vue.js project",
+  "author": "cyio <icaner@qq.com>",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "weiboer": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  }
+}
