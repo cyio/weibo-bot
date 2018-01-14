@@ -1,4 +1,4 @@
-const weiboer = require('weiboer')
+const weiboer = require('./weiboer')
 const path = require('path')
 
 const weiboHelper = weiboer.init(path.resolve(__dirname, './config.json'))
